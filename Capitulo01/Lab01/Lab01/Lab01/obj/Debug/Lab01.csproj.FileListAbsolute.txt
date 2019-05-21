@@ -1,7 +1,0 @@
-C:\Users\gonzalo\Documents\material facultad\Net\Net2019Gonzalo\Lab01\Lab01\Lab01\bin\Debug\Lab01.exe.config
-C:\Users\gonzalo\Documents\material facultad\Net\Net2019Gonzalo\Lab01\Lab01\Lab01\bin\Debug\Lab01.exe
-C:\Users\gonzalo\Documents\material facultad\Net\Net2019Gonzalo\Lab01\Lab01\Lab01\bin\Debug\Lab01.pdb
-C:\Users\gonzalo\Documents\material facultad\Net\Net2019Gonzalo\Lab01\Lab01\Lab01\obj\Debug\Lab01.csprojAssemblyReference.cache
-C:\Users\gonzalo\Documents\material facultad\Net\Net2019Gonzalo\Lab01\Lab01\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
-C:\Users\gonzalo\Documents\material facultad\Net\Net2019Gonzalo\Lab01\Lab01\Lab01\obj\Debug\Lab01.exe
-C:\Users\gonzalo\Documents\material facultad\Net\Net2019Gonzalo\Lab01\Lab01\Lab01\obj\Debug\Lab01.pdb
