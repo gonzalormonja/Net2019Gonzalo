@@ -25,6 +25,7 @@ namespace UI.Desktop
             this.txtApellido.Text = this.UsuarioActual.Apellido.ToString();
             this.txtEmail.Text = this.UsuarioActual.Email.ToString();
             this.txtClave.Text = this.UsuarioActual.Clave.ToString();
+            this.txtUsuario.Text = this.UsuarioActual.NombreUsuario.ToString();
             this.txtConfirmarClave.Text = this.UsuarioActual.Clave.ToString();
             switch (this.Modo)
             {
@@ -66,6 +67,7 @@ namespace UI.Desktop
         }
         public void copiarDatos()
         {
+            this.UsuarioActual.NombreUsuario = this.txtUsuario.Text;
             this.UsuarioActual.Habilitado = this.chkHabilitado.Checked;
             this.UsuarioActual.Nombre = this.txtNombre.Text;
             this.UsuarioActual.Apellido = this.txtApellido.Text;
